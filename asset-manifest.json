@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/mehulchat/my-app/static/css/main.073c9b0a.css",
-    "main.js": "/mehulchat/my-app/static/js/main.47b2fde8.js",
-    "index.html": "/mehulchat/my-app/index.html",
-    "main.073c9b0a.css.map": "/mehulchat/my-app/static/css/main.073c9b0a.css.map",
-    "main.47b2fde8.js.map": "/mehulchat/my-app/static/js/main.47b2fde8.js.map"
+    "main.css": "/my-app/static/css/main.073c9b0a.css",
+    "main.js": "/my-app/static/js/main.47b2fde8.js",
+    "index.html": "/my-app/index.html",
+    "main.073c9b0a.css.map": "/my-app/static/css/main.073c9b0a.css.map",
+    "main.47b2fde8.js.map": "/my-app/static/js/main.47b2fde8.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
